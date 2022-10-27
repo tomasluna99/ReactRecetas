@@ -1,0 +1,31 @@
+{
+  "recetas": [
+    {
+      "nombreReceta": "Sandwich de milanesa",
+      "categoria": "Almuerzo / cena",
+      "imagen": "https://media.todojujuy.com/p/132cf27e99a097b4626284ba2c68ec9c/adjuntos/227/imagenes/001/253/0001253751/imagepng.png",
+      "descripcion": "El sándwich de milanesa es un plato típico en la gastronomía argentina. Se compone de dos rebanadas de pan entre las cuales se coloca una milanesa, lechuga, tomate y ocasionalmente cebolla; lleva como aderezo distintas salsas como mayonesa, mostaza o kétchup",
+      "ingredientes": "300gr carne de nalga, 4 panes sangucheros, 2 huevos, 50g lechucha arrepollada, 8 rodajas de tomate redondo, ajo y perejil picado a gusto ,Sal a gusto, aderezos a gusto Leche a gusto ",
+      "preparacion": "Paso 1) Estirar la carne de milanesa con el martillito de carne y pincharla con un tenedor. Paso 2) Macerar la carne en el huevo batido con ajo picado, sal pimienta y perejil fresco picado. Paso 3) Apanar la carne con pan rallado, cubrirla con un separador de nylon y aplastarla con el palote. Paso 4) Freír en abundante aceite vuelta y vuelta, apenas dorada, para que la carne no se endurezca. Paso 5) Para alivianar la mayonesa, añadirle una cucharada de leche y mezclar. Paso 6) Cortar la lechuga en tiritas bien finas y los tomates en rodajas finas también. Paso 7) Cortar la en lonjas del ancho del pan y superponerlas.Paso 8) La salsa picante. Unir todos los ingredientes. Paso 9) Armar el sándwich con la milanesa, la lechuga, el tomate, la mayonesa y si se desea, la salsa picante.",
+      "id": 1
+    },
+    {
+      "nombreReceta": "Pollo al horno con mostaza y miel",
+      "categoria": "Almuerzo / cena",
+      "imagen": "https://i0.wp.com/cocinasindelantal.com/wp-content/uploads/2022/09/wp-1664137705406.jpg?fit=770%2C484&ssl=1",
+      "descripcion": "Una receta simple y muy sabrosa, con un toque agridulce, y especiado. Este pollo al horno con mostaza , miel y limón, es un plato que te asombrará",
+      "ingredientes": "Un pollo, 4 cucharas de mostaza, 2 cucharas de miel, jugo de 1 limón, Sal , pimienta, cúrcuma, cardamomo, ( o especias a gusto),2 cucharadas de aceto ( le puse aceto glaze pero usa el que tengas) ",
+      "preparacion": "Paso 1) Mezclar en un bol, la mostaza, la miel, el jugo de limón, y pizca de sal. Paso 2) Poner el pollo en una asadera para horno con apenas un hilo de aceite y pincelar con la mitad de la mezcla . Paso 3) Agregar al resto de la mezcla el aceto, mezclar bien y a los 15 minutos que el pollo esté en el horno pincelar, reservar algo. Paso 4) Cuanto el pollo esté dorado, terminar de pincelar con el resto de la mezcla y pinchar entre la pata y el muslo, si sale líquido sin color , ya está.",
+      "id": 2
+    }
+  ],
+  "usuarios": [
+    {
+      "nombre": "Tomas Gabriel",
+      "apellido": "Luna",
+      "email": "lunatomasgabriel@hotmail.com",
+      "password": "43930664285127",
+      "id": 2
+    }
+  ]
+}
